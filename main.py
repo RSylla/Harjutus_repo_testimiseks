@@ -104,7 +104,6 @@ def divide_persons(list_of_persons, max_persons):
     return list_out
 
 
-
 def make_groups(num_of_groups, list_of_persons, max_persons):
     """
     :param num_of_groups: An integer of how many groups to make.
